@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-15T17:52:08 IST" name="Default suite" finished-at="2025-08-15T17:52:38 IST" duration-ms="29798">
+    <groups>
+    </groups>
+    <test started-at="2025-08-15T17:52:08 IST" name="Default test" finished-at="2025-08-15T17:52:38 IST" duration-ms="29798">
+      <class name="contacts.TC_VT_001_Test">
+        <test-method is-config="true" signature="reportConfig()[pri:0, instance:contacts.TC_VT_001_Test@139982de]" started-at="2025-08-15T17:52:08 IST" name="reportConfig" finished-at="2025-08-15T17:52:08 IST" duration-ms="767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportConfig -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:contacts.TC_VT_001_Test@139982de]" started-at="2025-08-15T17:52:08 IST" name="openBrowser" finished-at="2025-08-15T17:52:14 IST" duration-ms="6071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:contacts.TC_VT_001_Test@139982de]" started-at="2025-08-15T17:52:15 IST" name="login" finished-at="2025-08-15T17:52:15 IST" duration-ms="606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnContacts()[pri:0, instance:contacts.TC_VT_001_Test@139982de]" started-at="2025-08-15T17:52:15 IST" name="clickOnContacts" finished-at="2025-08-15T17:52:33 IST" duration-ms="17431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnContacts -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:contacts.TC_VT_001_Test@139982de]" started-at="2025-08-15T17:52:33 IST" name="logout" finished-at="2025-08-15T17:52:37 IST" duration-ms="4722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:contacts.TC_VT_001_Test@139982de]" started-at="2025-08-15T17:52:37 IST" name="closeBrowser" finished-at="2025-08-15T17:52:38 IST" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="reportBackup()[pri:0, instance:contacts.TC_VT_001_Test@139982de]" started-at="2025-08-15T17:52:38 IST" name="reportBackup" finished-at="2025-08-15T17:52:40 IST" duration-ms="1452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportBackup -->
+      </class> <!-- contacts.TC_VT_001_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
