@@ -1,0 +1,10 @@
+com\crm\vtiger\genericutility\ListenerUtility.class
+com\crm\vtiger\objectrepository\HomePage.class
+com\crm\vtiger\objectrepository\OrganizationsPage.class
+com\crm\vtiger\genericutility\ExcelUtility.class
+com\crm\vtiger\genericutility\WebDriverUtility.class
+com\crm\vtiger\genericutility\FileUtility.class
+com\crm\vtiger\genericutility\JavaUtility.class
+com\crm\vtiger\genericutility\BaseClass.class
+com\crm\vtiger\objectrepository\LoginPage.class
+com\crm\vtiger\objectrepository\ContactsPage.class
